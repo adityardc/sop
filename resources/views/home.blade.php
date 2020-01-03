@@ -84,7 +84,7 @@
 	</tr>
 	<tr>
 		<td colspan="5">
-			<img src="{{ asset('assets/img/dash/bagan_potong_25.jpg') }}" width="204" height="46" alt=""></td>
+            <a href="{{ route('pemasaran') }}"><img src="{{ asset('assets/img/dash/bagan_potong_25.jpg') }}" width="204" height="46" alt=""></a></td>
 		<td colspan="2" rowspan="2">
 			<img src="{{ asset('assets/img/dash/bagan_potong_26.jpg') }}" width="41" height="81" alt=""></td>
 		<td colspan="9">
@@ -92,11 +92,11 @@
 		<td rowspan="2">
 			<img src="{{ asset('assets/img/dash/bagan_potong_28.jpg') }}" width="34" height="81" alt=""></td>
 		<td colspan="6">
-			<img src="{{ asset('assets/img/dash/bagan_potong_29.jpg') }}" width="177" height="46" alt=""></td>
+			<a href="{{ route('tanaman') }}"><img src="{{ asset('assets/img/dash/bagan_potong_29.jpg') }}" width="177" height="46" alt=""></a></td>
 		<td rowspan="2">
 			<img src="{{ asset('assets/img/dash/bagan_potong_30.jpg') }}" width="26" height="81" alt=""></td>
 		<td colspan="6">
-			<img src="{{ asset('assets/img/dash/bagan_potong_31.jpg') }}" width="180" height="46" alt=""></td>
+			<a href="{{ route('pabrik') }}"><img src="{{ asset('assets/img/dash/bagan_potong_31.jpg') }}" width="180" height="46" alt=""></a></td>
 		<td colspan="2" rowspan="2">
 			<img src="{{ asset('assets/img/dash/bagan_potong_32.jpg') }}" width="41" height="81" alt=""></td>
 		<td>
