@@ -1,4 +1,4 @@
-@extends('layouts.app')
+{{-- @extends('layouts.app')
 
 @section('content')
 <div class="container">
@@ -39,29 +39,12 @@
                             </div>
                         </div>
 
-                        {{-- <div class="form-group row">
-                            <div class="col-md-6 offset-md-4">
-                                <div class="form-check">
-                                    <input class="form-check-input" type="checkbox" name="remember" id="remember" {{ old('remember') ? 'checked' : '' }}>
-
-                                    <label class="form-check-label" for="remember">
-                                        {{ __('Remember Me') }}
-                                    </label>
-                                </div>
-                            </div>
-                        </div> --}}
-
                         <div class="form-group row mb-0">
                             <div class="col-md-8 offset-md-4">
                                 <button type="submit" class="btn btn-primary">
                                     {{ __('Login') }}
                                 </button>
 
-                                {{-- @if (Route::has('password.request'))
-                                    <a class="btn btn-link" href="{{ route('password.request') }}">
-                                        {{ __('Forgot Your Password?') }}
-                                    </a>
-                                @endif --}}
                             </div>
                         </div>
                     </form>
@@ -70,81 +53,109 @@
         </div>
     </div>
 </div>
-@endsection
+@endsection --}}
 
-{{-- <!DOCTYPE html>
-<html lang="{{ app()->getLocale() }}">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="SOP - PTPN IX" />
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-
-    <title>PTPN IX</title>
-
-    <!-- Styles -->
-    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
-    <link rel="shortcut icon" href="{{ asset('assets/img/logo-icon.png') }}" type="image/x-icon">
-
-    <!--Basic Styles-->
-    <link href="{{ asset('assets/css/bootstrap.min.css') }}" rel="stylesheet" />
-    <link id="bootstrap-rtl-link" href="#" rel="stylesheet" />
-    <link href="{{ asset('assets/css/font-awesome.min.css') }}" rel="stylesheet" />
-
-    <!--Beyond styles-->
-    <link id="beyond-link" href="{{ asset('assets/css/beyond.min.css') }}" rel="stylesheet" />
-    <link href="{{ asset('assets/css/demo.min.css') }}" rel="stylesheet" />
-    <link href="{{ asset('assets/css/animate.min.css') }}" rel="stylesheet" />
-    <link id="skin-link" href="#" rel="stylesheet" type="text/css" />
-
-    <!--Skin Script: Place this script in head to load scripts for skins and rtl support-->
+	<title>I M S :: PTPN IX</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--===============================================================================================-->
+	<link rel="icon" type="image/png" href="{{ asset('Login_v5/images/logo-icon.png') }}"/>
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ asset('Login_v5/vendor/bootstrap/css/bootstrap.min.css') }}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ asset('Login_v5/fonts/font-awesome-4.7.0/css/font-awesome.min.css') }}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ asset('Login_v5/fonts/Linearicons-Free-v1.0.0/icon-font.min.css') }}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ asset('Login_v5/vendor/animate/animate.css') }}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ asset('Login_v5/vendor/css-hamburgers/hamburgers.min.css') }}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ asset('Login_v5/vendor/animsition/css/animsition.min.css') }}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ asset('Login_v5/vendor/select2/select2.min.css') }}vendor/select2/select2.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ asset('Login_v5/vendor/daterangepicker/daterangepicker.css') }}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ asset('Login_v5/css/util.css') }}">
+	<link rel="stylesheet" type="text/css" href="{{ asset('Login_v5/css/main.css') }}">
+<!--===============================================================================================-->
 </head>
 <body>
-    <div class="login-container animated fadeInDown">
-        <div class="loginbox bg-white">
-            <div class="loginbox-title">LOGIN</div>
-            <div class="loginbox-social">
-                <div class="social-title" style="padding-bottom: 5%">ENTERPRISE PROCESS BUSINESS</div>
-                <div class="text-center">
-                    <img src="{{ asset('assets/img/Logo-kecil.png') }}">
-                </div>
-            </div>
-            <div class="loginbox-or">
-                <div class="or-line"></div>
-                <div class="or">SOP</div>
-            </div>
-            <form class="form-horizontal" method="POST" action="{{ route('login') }}">
-                {{ csrf_field() }}
-                <div class="loginbox-textbox {{ $errors->has('email') ? ' has-error' : '' }}">
-                    <input type="text" class="form-control" placeholder="Email atau Username" name="email" value="{{ old('email') }}" required autofocus />
-                    @if ($errors->has('email'))
-                        <span class="help-block">
-                            <strong>{{ $errors->first('email') }}</strong>
-                        </span>
-                    @endif
-                </div>
-                <div class="loginbox-textbox {{ $errors->has('password') ? ' has-error' : '' }}">
-                    <input type="password" class="form-control" placeholder="Password" name="password" value="{{ old('password') }}" required/>
-                    @if ($errors->has('password'))
-                        <span class="help-block">
-                            <strong>{{ $errors->first('password') }}</strong>
-                        </span>
-                    @endif
-                </div>
-                <div class="loginbox-submit">
-                    <input type="submit" class="btn btn-primary btn-block" value="Login">
-                </div>
-            </form>
-        </div>
-    </div>
 
-    <!-- Scripts -->
-    <script src="{{ asset('js/app.js') }}"></script>
-    <script src="{{ asset('assets/js/skins.min.js') }}"></script>
-    <script src="{{ asset('assets/js/jquery.min.js') }}"></script>
-    <script src="{{ asset('assets/js/bootstrap.min.js') }}"></script>
-    <script src="{{ asset('assets/js/slimscroll/jquery.slimscroll.min.js') }}"></script>
-    <script src="{{ asset('assets/js/beyond.js') }}"></script>
+	<div class="limiter">
+		<div class="container-login100" style="background-image: url('{{ asset('Login_v5/images/bg-01.jpg') }}');">
+			<div class="wrap-login100 p-l-110 p-r-110 p-t-62 p-b-33">
+				<form class="login100-form validate-form flex-sb flex-w" method="POST" action="{{ route('login') }}">
+                    @csrf
+					<span class="login100-form-title p-b-53">
+						<img src="{{ asset('Login_v5/images/Logo-kecil.png') }}" alt="logo">
+                        <h4 style="margin-top: 5%;">Integrated Management System</h4>
+                        @if ($errors->any())
+                        <div class="alert alert-danger text-center">
+                            <ul>
+                                @foreach ($errors->all() as $error)
+                                    <li><strong><h6>{{ $error }}</h6></strong></li>
+                                @endforeach
+                            </ul>
+                        </div>
+                        @endif
+                    </span>
+
+					<div class="p-t-31 p-b-9">
+						<span class="txt1">
+							Username
+						</span>
+					</div>
+					<div class="wrap-input100">
+                        <input id="email" type="text" class="input100" name="email" value="{{ old('email') }}" required autofocus>
+                        <span class="focus-input100"></span>
+					</div>
+
+					<div class="p-t-13 p-b-9">
+						<span class="txt1">
+							Password
+						</span>
+
+					</div>
+					<div class="wrap-input100">
+                        <input id="password" type="password" class="input100" name="password" required autocomplete="current-password">
+                        <span class="focus-input100"></span>
+					</div>
+
+					<div class="container-login100-form-btn m-t-17">
+						<button class="login100-form-btn">
+							Sign In
+						</button>
+					</div>
+
+				</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="dropDownSelect1"></div>
+
+<!--===============================================================================================-->
+	<script src="{{ asset('Login_v5/vendor/jquery/jquery-3.2.1.min.js') }}"></script>
+<!--===============================================================================================-->
+	<script src="{{ asset('Login_v5/vendor/animsition/js/animsition.min.js') }}"></script>
+<!--===============================================================================================-->
+	<script src="{{ asset('Login_v5/vendor/bootstrap/js/popper.js') }}"></script>
+	<script src="{{ asset('Login_v5/vendor/bootstrap/js/bootstrap.min.js') }}"></script>
+<!--===============================================================================================-->
+	<script src="{{ asset('Login_v5/vendor/select2/select2.min.js') }}"></script>
+<!--===============================================================================================-->
+	<script src="{{ asset('Login_v5/vendor/daterangepicker/moment.min.js') }}"></script>
+	<script src="{{ asset('Login_v5/vendor/daterangepicker/daterangepicker.js') }}"></script>
+<!--===============================================================================================-->
+	<script src="{{ asset('Login_v5/vendor/countdowntime/countdowntime.js') }}"></script>
+<!--===============================================================================================-->
+	<script src="{{ asset('Login_v5/js/main.js') }}"></script>
+
 </body>
-</html> --}}
+</html>
