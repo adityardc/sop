@@ -34,3 +34,5 @@ Route::get('/sustainability', 'HomeController@sustainability')->name('sustainabi
 Route::get('/pemasaran', 'HomeController@pemasaran')->name('pemasaran');
 Route::get('/renstra', 'HomeController@renstra')->name('renstra');
 Route::get('/hilir', 'HomeController@hilir')->name('hilir');
+Route::get('/hukum', 'HomeController@hukum')->name('hukum');
+Route::get('/kinerja', 'HomeController@kinerja')->name('kinerja');

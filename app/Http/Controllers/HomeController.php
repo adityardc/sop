@@ -90,4 +90,14 @@ class HomeController extends Controller
     {
         return view('hilir');
     }
+
+    public function hukum()
+    {
+        return view('hukum');
+    }
+
+    public function kinerja()
+    {
+        return view('kinerja');
+    }
 }

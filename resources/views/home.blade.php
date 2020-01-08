@@ -164,7 +164,7 @@
 		<td colspan="4" rowspan="2">
 			<img src="{{ asset('assets/img/dash/bagan_potong_56.jpg') }}" width="105" height="82" alt=""></td>
 		<td colspan="7">
-			<img src="{{ asset('assets/img/dash/bagan_potong_57.jpg') }}" width="214" height="44" alt=""></td>
+            <a href="{{ route('hukum') }}"><img src="{{ asset('assets/img/dash/bagan_potong_57.jpg') }}" width="214" height="44" alt=""></a></td>
 		<td rowspan="2">
 			<img src="{{ asset('assets/img/dash/bagan_potong_58.jpg') }}" width="31" height="82" alt=""></td>
 		<td rowspan="2">
@@ -208,7 +208,7 @@
 		<td rowspan="2">
 			<img src="{{ asset('assets/img/dash/bagan_potong_74.jpg') }}" width="37" height="130" alt=""></td>
 		<td colspan="5">
-			<img src="{{ asset('assets/img/dash/bagan_potong_75.jpg') }}" width="140" height="59" alt=""></td>
+            <a href="{{ route('kinerja') }}"><img src="{{ asset('assets/img/dash/bagan_potong_75.jpg') }}" width="140" height="59" alt=""></a></td>
 		<td colspan="2" rowspan="2">
 			<img src="{{ asset('assets/img/dash/bagan_potong_76.jpg') }}" width="26" height="130" alt=""></td>
 		<td colspan="5">

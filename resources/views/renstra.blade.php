@@ -7,16 +7,16 @@
         <p class="text-danger"><strong>PERENCANAAN STRATEGIS</strong></p>
     </div>
 </div>
-{{-- <div class="row">
+<div class="row">
     <div class="col-lg-12" style="padding-left: 12%;padding-right: 12%">
         <p class="text-primary" style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
             <tr>
-                <td><a href="{{ asset('storage/4. SOP LK LM.pdf') }}" target="_blank">SOP Penyusunan Laporan Keuangan dan Laporan manajemen</a></td>
+                <td><a href="{{ asset('storage/PTPN IX - SOP OPTIMALISASI ASET NON-CORE INTERNAL.pdf') }}" target="_blank">SOP Optimalisasi Aset Non-Core oleh Internal</a></td>
             </tr>
         </table>
     </div>
-</div> --}}
+</div>
 <header>
     <div id="carouselExampleIndicators-1" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
@@ -46,16 +46,16 @@
         <p class="text-danger"><strong>PERENCANAAN STRATEGIS</strong></p>
     </div>
 </div>
-{{-- <div class="row">
+<div class="row">
     <div class="col-lg-12" style="padding-left: 12%;padding-right: 12%">
         <p class="text-primary" style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
             <tr>
-                <td><a href="{{ asset('storage/4. SOP RKAP (1).pdf') }}" target="_blank"></a> SOP Penyusunan RKAP</td>
+                <td><a href="{{ asset('storage/PTPN IX - SOP OPTIMALISASI ASET NON-CORE EKSTERNAL.pdf') }}" target="_blank">SOP Optimalisasi Aset Non-Core oleh Eksternal</a></td>
             </tr>
         </table>
     </div>
-</div> --}}
+</div>
 <header>
     <div id="carouselExampleIndicators-2" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
@@ -145,16 +145,16 @@
         <p class="text-danger"><strong>PERENCANAAN STRATEGIS</strong></p>
     </div>
 </div>
-{{-- <div class="row">
+<div class="row">
     <div class="col-lg-12" style="padding-left: 12%;padding-right: 12%">
         <p class="text-primary" style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
             <tr>
-                <td><a href="{{ asset('storage/PTPN IX - SOP CORPORATE BRANDING.pdf') }}" target="_blank">SOP <i>Corporate Branding</a></i></td>
+                <td><a href="{{ asset('storage/PTPN IX - SOP PENGEMBANGAN BISNIS.pdf') }}" target="_blank">SOP Pengembangan Bisnis</i></td>
             </tr>
         </table>
     </div>
-</div> --}}
+</div>
 <header>
     <div id="carouselExampleIndicators-4" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">

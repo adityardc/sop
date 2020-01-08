@@ -41,10 +41,10 @@
         <p class="text-primary" style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
             <tr>
-                <td><a href="{{ asset('storage/SOP KARET rev.pdf') }}" target="_blank">1. SOP Budidaya Karet</a></td>
-                <td><a href="{{ asset('storage/Budidaya Teh format baru.pdf') }}" target="_blank">2. SOP Budidaya Teh</a></td>
-                <td><a href="{{ asset('storage/SOP Kopi  Arabika.pdf') }}" target="_blank">3. SOP Budidaya Kopi Arabika</a></td>
-                <td><a href="{{ asset('storage/SOP Kopi Robusta.pdf') }}" target="_blank">4. SOP Budidaya Kopi Robusta</a></td>
+                <td><a href="{{ asset('storage/PTPN IX - SOP KARET LENGKAP.pdf') }}" target="_blank">1. SOP Budidaya Karet</a></td>
+                <td><a href="{{ asset('storage/PTPN IX - SOP TEH LENGKAP.pdf') }}" target="_blank">2. SOP Budidaya Teh</a></td>
+                <td><a href="{{ asset('storage/PTPN IX - SOP KOPI ARABIKA.pdf') }}" target="_blank">3. SOP Budidaya Kopi Arabika</a></td>
+                <td>4. SOP Budidaya Kopi Robusta</td>
             </tr>
         </table>
     </div>
@@ -90,10 +90,10 @@
         <p class="text-primary" style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
             <tr>
-                <td><a href="{{ asset('storage/SOP Pengadaan Areal Sewa Lahan Tebu Bibit - Tanaman PTPN IX (1).pdf') }}" target="_blank">1. SOP Pengadaan Areal Sewa Lahan Tebu Bibit</a></td>
-                <td><a href="{{ asset('storage/SOP Pengadaan Areal Sewa Lahan Tebu Giling - Tanaman PTPN IX.pdf') }}" target="_blank">2. SOP Pengadan Areal Sewa Lahan Tebu Giling</a></td>
-                <td><a href="{{ asset('storage/SOP Pengadaan Areal TR Kemitraan - Tanaman PTPN IX (1).pdf') }}" target="_blank">3. SOP Pengadaan Areal TR Kemitraan</a></td>
-                <td><a href="{{ asset('storage/SOP Tebang Angkut - Tanaman PTPN IX (1).pdf') }}" target="_blank">4. SOP Tebang Muat Angkut</a></td>
+                <td><a href="{{ asset('storage/PTPN IX - SOP PENGADAAN AREAL SEWA LAHAN TEBU BIBIT.pdf') }}" target="_blank">1. SOP Pengadaan Areal Sewa Lahan Tebu Bibit</a></td>
+                <td><a href="{{ asset('storage/PTPN IX - SOP PENGADAAN AREAL SEWA LAHAN TEBU GILING.pdf') }}" target="_blank">2. SOP Pengadan Areal Sewa Lahan Tebu Giling</a></td>
+                <td><a href="{{ asset('storage/PTPN IX - SOP PENGADAAN AREAL TR KEMITRAAN.pdf') }}" target="_blank">3. SOP Pengadaan Areal TR Kemitraan</a></td>
+                <td><a href="{{ asset('storage/PTPN IX - SOP TEBANG MUAT ANGKUT.pdf') }}" target="_blank">4. SOP Tebang Muat Angkut</a></td>
             </tr>
         </table>
     </div>

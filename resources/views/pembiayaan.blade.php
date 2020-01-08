@@ -51,7 +51,7 @@
         <p class="text-primary" style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
             <tr>
-                <td><a href="{{ asset('storage/SOP IMS KAS MASUK BAG PEMBIAYAAN.pdf') }}" target="_blank">SOP Manajemen Kas Masuk</a></td>
+                <td><a href="{{ asset('storage/PTPN IX - SOP MANAJEMEN KAS MASUK.pdf') }}" target="_blank">SOP Manajemen Kas Masuk</a></td>
             </tr>
         </table>
     </div>
@@ -90,7 +90,7 @@
         <p class="text-primary" style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
             <tr>
-                <td><a href="{{ asset('storage/SOP IMS PENDANAAN BAG PEMBIAYAAN.pdf') }}" target="_blank">SOP Pendanaan</a></td>
+                <td><a href="{{ asset('storage/PTPN IX - SOP PENDANAAN BAGIAN PEMBIAYAAN.pdf') }}" target="_blank">SOP Pendanaan</a></td>
             </tr>
         </table>
     </div>

@@ -12,7 +12,7 @@
         <p class="text-primary" style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
             <tr>
-                <td><a href="{{ asset('storage/SOP Prosedur Penerapan Operational Excellent') }}" target="_blank"></a></td>
+                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR PENERAPAN OPERATIONAL EXCELLENT.pdf') }}" target="_blank">SOP <i>Operational Excellent</i></a></td>
             </tr>
         </table>
     </div>
@@ -163,7 +163,7 @@
         <p class="text-primary" style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
             <tr>
-                <td><a href="{{ asset('storage/Prosedur Investasi DTS.pdf') }}" target="_blank">SOP Prosedur Investasi non Tanaman DTS</a></td>
+                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR INVESTASI NON TANAMAN DTS.pdf') }}" target="_blank">SOP Prosedur Investasi non Tanaman DTS</a></td>
             </tr>
         </table>
     </div>

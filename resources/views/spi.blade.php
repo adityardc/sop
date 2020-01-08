@@ -12,8 +12,9 @@
         <p class="text-primary" style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
             <tr>
-                <td><a href="{{ asset('storage/SOP PKPT RJPP SPI 1.pdf') }}" target="_blank">1. SOP Penyusunan RKPT dan RJPP SPI</a></td>
-                <td><a href="{{ asset('storage/11. BAB VII   PROSEDURE (9-17).pdf') }}" target="_blank">2. SOP Pemeriksaan</a></td>
+                <td><a href="{{ asset('storage/PTPN IX - SOP PKPT DAN RJP SPI LENGKAP.pdf') }}" target="_blank">1. SOP Penyusunan RKPT dan RJPP SPI</a></td>
+                <td>2. SOP Pelaksanaan Audit</td>
+                <td><a href="{{ asset('storage/SOP reward punishment spi print.pdf') }}" target="_blank">3. SOP Pemberian <i>Reward and Punishement</i></a></td>
             </tr>
         </table>
     </div>

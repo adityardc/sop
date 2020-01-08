@@ -12,8 +12,13 @@
         <p class="text-primary" style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
             <tr>
-                <td><a href="{{ asset('storage/SOP Penjualan gula tetes format baru.pdf') }}" target="_blank">SOP Pemasaran Gula dan Tetes</a></td>
-                <td><a href="{{ asset('storage/7. TATA CARA PELAKSANAAN PENJULAN KOMODITI DTT.pdf') }}" target="_blank">SOP Penjualan Komoditi DTT</a></td>
+                <td><a href="{{ asset('storage/SOP Penjualan gula tetes format baru.pdf') }}" target="_blank">1. SOP Pemasaran Gula dan Tetes</a></td>
+                <td><a href="{{ asset('storage/7. TATA CARA PELAKSANAAN PENJULAN KOMODITI DTT.pdf') }}" target="_blank">2. SOP Penjualan Komoditi DTT</a></td>
+                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR PENANGANAN KOMPLAIN DAN KLAIM.pdf') }}" target="_blank">3. SOP Penanganan Klaim dan Komplain Pelanggan</a></td>
+            </tr>
+            <tr>
+                <td><a href="{{ asset('storage/PTPN IX - SOP PELAYANAN PENGAMBILAN DO.pdf') }}" target="_blank">4. SOP Pengambilan DO</a></td>
+                <td>5. SOP Prosedur Pelaksanaan Stock Opname</td>
             </tr>
         </table>
     </div>

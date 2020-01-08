@@ -7,16 +7,16 @@
         <p class="text-danger"><strong>PERENCANAAN STRATEGIS</strong></p>
     </div>
 </div>
-{{-- <div class="row">
+<div class="row">
     <div class="col-lg-12" style="padding-left: 12%;padding-right: 12%">
         <p class="text-primary" style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
             <tr>
-                <td><a href="{{ asset('storage/4. SOP LK LM.pdf') }}" target="_blank">SOP Penyusunan Laporan Keuangan dan Laporan manajemen</a></td>
+                <td>SOP UPH</td>
             </tr>
         </table>
     </div>
-</div> --}}
+</div>
 <header>
     <div id="carouselExampleIndicators-1" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
@@ -46,19 +46,16 @@
         <p class="text-danger"><strong>PERENCANAAN STRATEGIS</strong></p>
     </div>
 </div>
-{{-- <div class="row">
+<div class="row">
     <div class="col-lg-12" style="padding-left: 12%;padding-right: 12%">
         <p class="text-primary" style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
             <tr>
-                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR PENGAJUAN BARANG DAN JASA.pdf') }}" target="_blank">1. SOP Pengajuan Barang dan Jasa</a></td>
-                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR PELAKSANAAN TENDER.pdf') }}" target="_blank">2. SOP Prosedur Pelaksanaan Tender</a></td>
-                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR PENYUSUNAN HPS.pdf') }}" target="_blank">3. SOP Prosedur Penyusunan HPS</a></td>
-                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR PENERIMAAN BARANG DAN JASA.pdf') }}" target="_blank">4. SOP Penerimaan Barang dan Jasa</a></td>
+                <td><a href="{{ asset('storage/PTPN IX - SOP MANAJEMEN WISATA AGRO.pdf') }}" target="_blank">SOP Wisata Agro</a></td>
             </tr>
         </table>
     </div>
-</div> --}}
+</div>
 <header>
     <div id="carouselExampleIndicators-2" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">

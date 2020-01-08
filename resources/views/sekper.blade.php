@@ -12,7 +12,7 @@
         <p class="text-primary" style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
             <tr>
-                <td><a href="{{ asset('storage/4. SOP LK LM.pdf') }}" target="_blank">SOP Penyusunan Laporan Keuangan dan Laporan manajemen</a></td>
+                <td><a href="{{ asset('storage/PTPN IX - SOP PENYUSUNAN LAPORAN KEUANGAN DAN LAPORAN MANAJEMEN TAHUNAN.pdf') }}" target="_blank">SOP Penyusunan Laporan Keuangan dan Laporan manajemen</a></td>
             </tr>
         </table>
     </div>
@@ -111,7 +111,7 @@
         <p class="text-primary" style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
             <tr>
-                <td><a href="{{ asset('storage/4. SOP RJP P.pdf') }}" target="_blank">SOP Penyusunan Laporan RJP Perusahaan</a></td>
+                <td><a href="{{ asset('storage/PTPN IX - SOP PENYUSUNAN RJPP.pdf') }}" target="_blank">SOP Penyusunan Laporan RJP Perusahaan</a></td>
             </tr>
         </table>
     </div>
