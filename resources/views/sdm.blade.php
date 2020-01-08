@@ -95,7 +95,7 @@
         <p class="text-primary" style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
             <tr>
-                <td>SOP Pengurusan Aset</td>
+                <td><a href="{{ asset('storage/PTPN IX - SOP PENGURUSAN SERTIFIKAT HAK ATAS ASET TANAH DAN ATAU BANGUNAN.pdf') }}" target="_blank">SOP Pengurusan Aset</a></td>
             </tr>
         </table>
     </div>
