@@ -102,7 +102,7 @@
 		<td colspan="3" rowspan="6">
 			<img src="{{ asset('assets/img/dash/bagan_logout_21.jpg') }}" width="120" height="144" alt=""></td>
 		<td colspan="10" rowspan="3">
-			<img src="{{ asset('assets/img/dash/bagan_logout_22.jpg') }}" width="274" height="55" alt=""></td>
+			<a href="{{ route('bisnis') }}"><img src="{{ asset('assets/img/dash/bagan_logout_22.jpg') }}" width="274" height="55" alt=""></a></td>
 		<td colspan="3" rowspan="4">
 			<img src="{{ asset('assets/img/dash/bagan_logout_23.jpg') }}" width="62" height="87" alt=""></td>
 		<td>

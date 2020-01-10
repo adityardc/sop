@@ -115,4 +115,9 @@ class HomeController extends Controller
     {
         return view('pelanggan');
     }
+
+    public function bisnis()
+    {
+        return view('bisnis');
+    }
 }
