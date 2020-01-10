@@ -136,7 +136,7 @@
 		<td rowspan="3">
 			<img src="{{ asset('assets/img/dash/bagan_logout_30.jpg') }}" width="47" height="84" alt=""></td>
 		<td colspan="11">
-			<img src="{{ asset('assets/img/dash/bagan_logout_31.jpg') }}" width="266" height="50" alt=""></td>
+			<a href="{{ route('produksi') }}"><img src="{{ asset('assets/img/dash/bagan_logout_31.jpg') }}" width="266" height="50" alt=""></a></td>
 		<td colspan="2" rowspan="3">
 			<img src="{{ asset('assets/img/dash/bagan_logout_32.jpg') }}" width="37" height="84" alt=""></td>
 		<td colspan="6">

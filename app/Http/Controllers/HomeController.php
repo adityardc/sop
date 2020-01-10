@@ -120,4 +120,9 @@ class HomeController extends Controller
     {
         return view('bisnis');
     }
+
+    public function produksi()
+    {
+        return view('produksi');
+    }
 }
