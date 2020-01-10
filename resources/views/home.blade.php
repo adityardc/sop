@@ -82,7 +82,7 @@
 		<td colspan="4" rowspan="2">
 			<img src="{{ asset('assets/img/dash/bagan_logout_15.jpg') }}" width="135" height="82" alt=""></td>
 		<td colspan="5">
-			<img src="{{ asset('assets/img/dash/bagan_logout_16.jpg') }}" width="164" height="51" alt=""></td>
+			<a href="{{ route('pelanggan') }}"><img src="{{ asset('assets/img/dash/bagan_logout_16.jpg') }}" width="164" height="51" alt=""></a></td>
 		<td colspan="7" rowspan="2">
 			<img src="{{ asset('assets/img/dash/bagan_logout_17.jpg') }}" width="157" height="82" alt=""></td>
 		<td colspan="7" rowspan="3">
@@ -118,7 +118,7 @@
 		<td colspan="4" rowspan="2">
 			<img src="{{ asset('assets/img/dash/bagan_logout_25.jpg') }}" width="120" height="33" alt=""></td>
 		<td colspan="7" rowspan="3">
-			<img src="{{ asset('assets/img/dash/bagan_logout_26.jpg') }}" width="213" height="83" alt=""></td>
+			<a href="{{ route('pemasaran') }}"><img src="{{ asset('assets/img/dash/bagan_logout_26.jpg') }}" width="213" height="83" alt=""></a></td>
 		<td colspan="2" rowspan="4">
 			<img src="{{ asset('assets/img/dash/bagan_logout_27.jpg') }}" width="178" height="90" alt=""></td>
 		<td>
@@ -132,7 +132,7 @@
 	</tr>
 	<tr>
 		<td colspan="8">
-			<img src="{{ asset('assets/img/dash/bagan_logout_29.jpg') }}" width="210" height="50" alt=""></td>
+			<a href="{{ route('pemasaran') }}"><img src="{{ asset('assets/img/dash/bagan_logout_29.jpg') }}" width="210" height="50" alt=""></a></td>
 		<td rowspan="3">
 			<img src="{{ asset('assets/img/dash/bagan_logout_30.jpg') }}" width="47" height="84" alt=""></td>
 		<td colspan="11">

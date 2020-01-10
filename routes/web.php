@@ -38,3 +38,4 @@ Route::get('/hukum', 'HomeController@hukum')->name('hukum');
 Route::get('/kinerja', 'HomeController@kinerja')->name('kinerja');
 Route::get('/tahunan', 'HomeController@tahunan')->name('tahunan');
 Route::get('/strategi', 'HomeController@strategi')->name('strategi');
+Route::get('/pelanggan', 'HomeController@pelanggan')->name('pelanggan');

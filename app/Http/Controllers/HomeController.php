@@ -110,4 +110,9 @@ class HomeController extends Controller
     {
         return view('strategi');
     }
+
+    public function pelanggan()
+    {
+        return view('pelanggan');
+    }
 }
