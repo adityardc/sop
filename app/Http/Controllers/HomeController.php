@@ -100,4 +100,14 @@ class HomeController extends Controller
     {
         return view('kinerja');
     }
+
+    public function tahunan()
+    {
+        return view('tahunan');
+    }
+
+    public function strategi()
+    {
+        return view('strategi');
+    }
 }

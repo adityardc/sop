@@ -7,9 +7,10 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>{{ config('app.name', 'Laravel') }}</title>
+    <title>I M S :: PTPN IX</title>
     <link rel="stylesheet" href="{{asset('assets/vendor/bootstrap/css/bootstrap.min.css')}}">
     <link rel="stylesheet" href="{{asset('assets/css/modern-business.css')}}">
+    <link rel="icon" type="image/png" href="{{ asset('Login_v5/images/logo-icon.png') }}"/>
     <style>
         .carousel-caption {
             top: 0;

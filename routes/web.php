@@ -36,3 +36,5 @@ Route::get('/renstra', 'HomeController@renstra')->name('renstra');
 Route::get('/hilir', 'HomeController@hilir')->name('hilir');
 Route::get('/hukum', 'HomeController@hukum')->name('hukum');
 Route::get('/kinerja', 'HomeController@kinerja')->name('kinerja');
+Route::get('/tahunan', 'HomeController@tahunan')->name('tahunan');
+Route::get('/strategi', 'HomeController@strategi')->name('strategi');
