@@ -32,7 +32,7 @@
                         </div>
                         <div class="tab-content">
                             <div class="tab-pane wizard-ctn" id="tab1">
-                                <img src="{{ url('assets/img/mr/11.png') }}" alt="">
+                                <img src="{{ url('assets/img/11.png') }}" alt="">
                             </div>
                             {{-- <div class="tab-pane wizard-ctn" id="tab2">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus purus sapien, cursus et egestas at, volutpat sed dolor. Aliquam sollicitudin dui ac euismod hendrerit. Phasellus quis lobortis dolor. Sed massa massa, sagittis nec fermentum eu, volutpat non lectus. Nullam vitae tristique nunc. Aenean vel placerat augue. Aliquam pharetra mauris neque, sitan amet egestas risus semper non. Proin egestas egestas ex sed gravida. Suspendisse commodo nisl sit amet risus volutpat volutpat. Phasellus vitae turpis a elit tinciduntansan ornare. Praesent non libero quis libero scelerisque eleifend. Ut eleifend laoreet vulputate.</p>
