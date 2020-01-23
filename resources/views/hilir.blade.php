@@ -12,7 +12,7 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td>SOP UPH</td>
+                                <td>SOP UPH.<br><b>(revisi)</b></td>
                             </tr>
                         </table>
                     </div>
@@ -56,7 +56,7 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP MANAJEMEN WISATA AGRO.pdf') }}" target="_blank">SOP Wisata Agro</a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP MANAJEMEN WISATA AGRO.pdf') }}" target="_blank">SOP Wisata Agro.<br><b>(verifikasi)</b></a></td>
                             </tr>
                         </table>
                     </div>

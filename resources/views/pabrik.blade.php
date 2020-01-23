@@ -12,7 +12,7 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR PENERAPAN OPERATIONAL EXCELLENT.pdf') }}" target="_blank">SOP <i>Operational Excellent</i></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR PENERAPAN OPERATIONAL EXCELLENT.pdf') }}" target="_blank">SOP <i>Operational Excellent</i>.<br><b>(verifikasi)</b></a></td>
                             </tr>
                         </table>
                     </div>
@@ -60,32 +60,32 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA AGROKLIMATOLOGI.pdf') }}" target="_blank">1. SOP Analisa Agroklimatologi</a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA DONGKELAN DAN BRONDOLAN.pdf') }}" target="_blank">6. SOP Analisa Dongkelan dan Brondolan</a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA KEBERSIHAN TEBU.pdf') }}" target="_blank">11. SOP Analisa Kebersihan Tebu</a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA KEBERSIHAN TEBU.pdf') }}" target="_blank">15. SOP Analisa Pengamatan Meja Tebu</a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA AGROKLIMATOLOGI.pdf') }}" target="_blank">1. SOP Analisa Agroklimatologi.<br><b>(verifikasi)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA DONGKELAN DAN BRONDOLAN.pdf') }}" target="_blank">6. SOP Analisa Dongkelan dan Brondolan.<br><b>(verifikasi)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA KEBERSIHAN TEBU.pdf') }}" target="_blank">11. SOP Analisa Kebersihan Tebu.<br><b>(verifikasi)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA KEBERSIHAN TEBU.pdf') }}" target="_blank">15. SOP Analisa Pengamatan Meja Tebu.<br><b>(verifikasi)</b></a></td>
                             </tr>
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA KADAR AIR PADA GULA.pdf') }}" target="_blank">2. SOP Analisa Kadar Air pada Gula</a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA RENDEMEN INDIVIDU.pdf') }}" target="_blank">7. SOP Analisa Rendemen Individu</a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA ZAT KERING AMPAS.pdf') }}" target="_blank">12. SOP Analisa Zat Kering Ampas</a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA NIRA MENTAH.pdf') }}" target="_blank">16. SOP Analisa Nira Mentah</a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA KADAR AIR PADA GULA.pdf') }}" target="_blank">2. SOP Analisa Kadar Air pada Gula.<br><b>(verifikasi)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA RENDEMEN INDIVIDU.pdf') }}" target="_blank">7. SOP Analisa Rendemen Individu.<br><b>(verifikasi)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA ZAT KERING AMPAS.pdf') }}" target="_blank">12. SOP Analisa Zat Kering Ampas.<br><b>(verifikasi)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA NIRA MENTAH.pdf') }}" target="_blank">16. SOP Analisa Nira Mentah.<br><b>(verifikasi)</b></a></td>
                             </tr>
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA NIRA KENTAL.pdf') }}" target="_blank">3. SOP Analisa Nira Kental</a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA KADAR KAPUR NIRA MENTAH DAN NIRA ENCER.pdf') }}" target="_blank">8. SOP Analisa Kadar Kapur NM dan NE</a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA MASAKAN.pdf') }}" target="_blank">13. SOP Analisa Masakan</a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA GULA ACD.pdf') }}" target="_blank">17. SOP Analisa Gula ACD</a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA NIRA KENTAL.pdf') }}" target="_blank">3. SOP Analisa Nira Kental.<br><b>(verifikasi)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA KADAR KAPUR NIRA MENTAH DAN NIRA ENCER.pdf') }}" target="_blank">8. SOP Analisa Kadar Kapur NM dan NE.<br><b>(verifikasi)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA MASAKAN.pdf') }}" target="_blank">13. SOP Analisa Masakan.<br><b>(verifikasi)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA GULA ACD.pdf') }}" target="_blank">17. SOP Analisa Gula ACD.<br><b>(verifikasi)</b></a></td>
                             </tr>
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA TETES.pdf') }}" target="_blank">4. SOP Analisa Tetes</a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA ICUMSA SHS (GULA).pdf') }}" target="_blank">9. SOP Analisa ICUMSA SHS</a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA BESAR JENIS BUTIR.pdf') }}" target="_blank">14. SOP Analisa BJB</a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PRODUKSI PABRIK GULA.pdf') }}" target="_blank">18. SOP Produksi Pabrik Gula</a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA TETES.pdf') }}" target="_blank">4. SOP Analisa Tetes.<br><b>(verifikasi)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA ICUMSA SHS (GULA).pdf') }}" target="_blank">9. SOP Analisa ICUMSA SHS.<br><b>(verifikasi)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP ANALISA BESAR JENIS BUTIR.pdf') }}" target="_blank">14. SOP Analisa BJB.<br><b>(verifikasi)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PRODUKSI PABRIK GULA.pdf') }}" target="_blank">18. SOP Produksi Pabrik Gula.<br><b>(verifikasi)</b></a></td>
                             </tr>
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP SERAH TERIMA HASIL PRODUKSI.pdf') }}" target="_blank">5. SOP Serah Terima Hasil Produksi</a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PELAPORAN PRODUKSI.pdf') }}" target="_blank">10. SOP Pelaporan Produksi</a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP SERAH TERIMA HASIL PRODUKSI.pdf') }}" target="_blank">5. SOP Serah Terima Hasil Produksi.<br><b>(verifikasi)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PELAPORAN PRODUKSI.pdf') }}" target="_blank">10. SOP Pelaporan Produksi.<br><b>(verifikasi)</b></a></td>
                             </tr>
                         </table>
                     </div>
@@ -129,9 +129,9 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR MAINTENANCE PABRIK GULA.pdf') }}" target="_blank">1. SOP Prosedur Maintenance Pabrik Gula</a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR INDIVIDUAL TEST.pdf') }}" target="_blank">2. SOP Prosedur Individual Test</a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP KALIBRASI ALAT UKUR.pdf') }}" target="_blank">3. SOP Kalibrasi Alat Ukur</a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR MAINTENANCE PABRIK GULA.pdf') }}" target="_blank">1. SOP Prosedur Maintenance Pabrik Gula.<br><b>(verifikasi)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR INDIVIDUAL TEST.pdf') }}" target="_blank">2. SOP Prosedur Individual Test.<br><b>(verifikasi)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP KALIBRASI ALAT UKUR.pdf') }}" target="_blank">3. SOP Kalibrasi Alat Ukur.<br><b>(verifikasi)</b></a></td>
                             </tr>
                         </table>
                     </div>
@@ -175,7 +175,7 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR INVESTASI NON TANAMAN DTS.pdf') }}" target="_blank">SOP Prosedur Investasi non Tanaman DTS</a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR INVESTASI NON TANAMAN DTS.pdf') }}" target="_blank">SOP Prosedur Investasi non Tanaman DTS.<br><b>(verifikasi)</b></a></td>
                             </tr>
                         </table>
                     </div>

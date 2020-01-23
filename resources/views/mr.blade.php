@@ -12,9 +12,9 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR PENYUSUNAN DAN MONITORING PROFIL RESIKO.pdf') }}" target="_blank">1. SOP Penyusunan dan Monitoring Profil Risiko</a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR PENYUSUNAN KAJIAN RESIKO STRATEGIS.pdf') }}" target="_blank">2. SOP Kajian Risiko Strategis</a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR PENGENDALIAN DOKUMEN.pdf') }}" target="_blank">3. SOP Pengendalian Dokumen</a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR PENYUSUNAN DAN MONITORING PROFIL RESIKO.pdf') }}" target="_blank">1. SOP Penyusunan dan Monitoring Profil Risiko. <br><b>(sudah disetujui)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR PENYUSUNAN KAJIAN RESIKO STRATEGIS.pdf') }}" target="_blank">2. SOP Kajian Risiko Strategis. <br><b>(sudah disetujui)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR PENGENDALIAN DOKUMEN.pdf') }}" target="_blank">3. SOP Pengendalian Dokumen. <br><b>(sudah disetujui)</b></a></td>
                             </tr>
                         </table>
                     </div>

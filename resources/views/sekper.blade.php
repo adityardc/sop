@@ -12,7 +12,7 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PENYUSUNAN LAPORAN KEUANGAN DAN LAPORAN MANAJEMEN TAHUNAN.pdf') }}" target="_blank">SOP Penyusunan Laporan Keuangan dan Laporan manajemen</a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PENYUSUNAN LAPORAN KEUANGAN DAN LAPORAN MANAJEMEN TAHUNAN.pdf') }}" target="_blank">SOP Penyusunan Laporan Keuangan dan Laporan Manajemen.<br><b>(revisi)</b></a></td>
                             </tr>
                         </table>
                     </div>
@@ -64,7 +64,7 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP CORPORATE BRANDING.pdf') }}" target="_blank">SOP <i>Corporate Branding</a></i></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP CORPORATE BRANDING.pdf') }}" target="_blank">SOP <i>Corporate Branding</a>.<br><b>(revisi)</b></i></td>
                             </tr>
                         </table>
                     </div>

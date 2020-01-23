@@ -12,7 +12,7 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP MANAJEMEN KAS KELUAR.pdf') }}" target="_blank">SOP Manajemen Kas Keluar</a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP MANAJEMEN KAS KELUAR.pdf') }}" target="_blank">SOP Manajemen Kas Keluar. <br><b>(verifikasi)</b></a></td>
                             </tr>
                         </table>
                     </div>
@@ -56,7 +56,7 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP MANAJEMEN KAS MASUK.pdf') }}" target="_blank">SOP Manajemen Kas Masuk</a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP MANAJEMEN KAS MASUK.pdf') }}" target="_blank">SOP Manajemen Kas Masuk.<br><b>(verifikasi)</b></a></td>
                             </tr>
                         </table>
                     </div>
@@ -100,7 +100,7 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PENDANAAN BAGIAN PEMBIAYAAN.pdf') }}" target="_blank">SOP Pendanaan</a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PENDANAAN BAGIAN PEMBIAYAAN.pdf') }}" target="_blank">SOP Pendanaan.<br><b>(verifikasi)</b></a></td>
                             </tr>
                         </table>
                     </div>
@@ -144,7 +144,7 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP HOLDING CASH POOLING.pdf') }}" target="_blank">SOP <i>Cash Polling</i></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP HOLDING CASH POOLING.pdf') }}" target="_blank">SOP <i>Cash Polling</i>.<br><b>(verifikasi)</b></a></td>
                             </tr>
                         </table>
                     </div>

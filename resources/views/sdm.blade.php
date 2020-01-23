@@ -12,12 +12,12 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP HUBUNGAN INDUSTRI.pdf') }}" target="_blank">1. SOP Hubungan Industri</a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP ADMINISTRASI KARYAWAN MBT DAN PENSIUN.pdf') }}" target="_blank">3. SOP Administrasi Karyawan MBT dan Pensiun</a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP HUBUNGAN INDUSTRI.pdf') }}" target="_blank">1. SOP Hubungan Industri.<br><b>(revisi)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP ADMINISTRASI KARYAWAN MBT DAN PENSIUN.pdf') }}" target="_blank">3. SOP Administrasi Karyawan MBT dan Pensiun.<br><b>(revisi)</b></a></td>
                             </tr>
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP KONTRAK KERJA.pdf') }}" target="_blank">2. SOP Kontrak Kerja</a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PEMBUATAN SK DIREKSI.pdf') }}" target="_blank">4. SOP Pembuatan SK Direksi</a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP KONTRAK KERJA.pdf') }}" target="_blank">2. SOP Kontrak Kerja.<br><b>(revisi)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PEMBUATAN SK DIREKSI.pdf') }}" target="_blank">4. SOP Pembuatan SK Direksi.<br><b>(verifikasi)</b></a></td>
                             </tr>
                         </table>
                     </div>
@@ -61,7 +61,7 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP LEGAL OPINION.pdf') }}" target="_blank">SOP Kajian Hukum/<i>Legal Opinion</i></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP LEGAL OPINION.pdf') }}" target="_blank">SOP Kajian Hukum/<i>Legal Opinion</i>.<br><b>(verifikasi)</b></a></td>
                             </tr>
                         </table>
                     </div>
@@ -94,7 +94,7 @@
         </div>
     </div>
 </div><br><br>
-<div class="wizard-area">
+{{-- <div class="wizard-area">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -137,19 +137,19 @@
             </div>
         </div>
     </div>
-</div><br><br>
+</div><br><br> --}}
 <div class="wizard-area">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="wizard-wrap-int">
                     <div class="wizard-hd">
-                        <h2 style="text-align: center">4. PROSES BISNIS : MANAJEMEN KINERJA</h2>
+                        <h2 style="text-align: center">3. PROSES BISNIS : MANAJEMEN KINERJA</h2>
                         <h5 style="text-align: center;color: red">SDM dan UMUM</h5>
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PENGEMBANGAN KOMPETENSI KARYAWAN DAN EVALUASI PASCA KEGIATAN.pdf') }}" target="_blank">SOP Pengembangan Kompetensi Karyawan & Evaluasi Pasca Pelatihan</a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PENGEMBANGAN KOMPETENSI KARYAWAN DAN EVALUASI PASCA KEGIATAN.pdf') }}" target="_blank">SOP Pengembangan Kompetensi Karyawan & Evaluasi Pasca Pelatihan.<br><b>(verifikasi)</b></a></td>
                             </tr>
                         </table>
                     </div>
@@ -197,9 +197,9 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PENGGUNAAN RUANG LEARNING CENTER.pdf') }}" target="_blank">1. SOP Penggunaan Ruang <i>Learning Center</i></a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PERIJINAN KUNJUNGAN, PKL DAN RISET.pdf') }}" target="_blank">2. SOP Perijinan Kunjungan, PKL, dan Riset</a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PROGRAM MAGANG MAHASISWA BERSERTIFIKAT.pdf') }}" target="_blank">3. SOP Program Magang Mahasiswa Bersertifikasi</a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PENGGUNAAN RUANG LEARNING CENTER.pdf') }}" target="_blank">1. SOP Penggunaan Ruang <i>Learning Center</i>.<br><b>(revisi)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PERIJINAN KUNJUNGAN, PKL DAN RISET.pdf') }}" target="_blank">2. SOP Perijinan Kunjungan, PKL, dan Riset.<br><b>(revisi)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PROGRAM MAGANG MAHASISWA BERSERTIFIKAT.pdf') }}" target="_blank">3. SOP Program Magang Mahasiswa Bersertifikasi.<br><b>(revisi)</b></a></td>
                             </tr>
                         </table>
                     </div>

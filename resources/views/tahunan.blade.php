@@ -12,7 +12,7 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/4. SOP RKAP (1).pdf') }}" target="_blank"></a> SOP Penyusunan RKAP</td>
+                                <td><a href="{{ asset('storage/4. SOP RKAP (1).pdf') }}" target="_blank"></a> SOP Penyusunan RKAP.<br><b>(verifikasi)</b></td>
                             </tr>
                         </table>
                     </div>

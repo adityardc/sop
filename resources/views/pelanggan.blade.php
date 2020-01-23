@@ -12,7 +12,7 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR PENANGANAN KOMPLAIN DAN KLAIM.pdf') }}" target="_blank">SOP Penanganan Klaim dan Komplain Pelanggan</a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR PENANGANAN KOMPLAIN DAN KLAIM.pdf') }}" target="_blank">SOP Penanganan Klaim dan Komplain Pelanggan.<br><b>(verifikasi)</b></a></td>
                             </tr>
                         </table>
                     </div>

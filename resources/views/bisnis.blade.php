@@ -12,7 +12,7 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PENGEMBANGAN BISNIS.pdf') }}" target="_blank">SOP Pengembangan Bisnis</i></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PENGEMBANGAN BISNIS.pdf') }}" target="_blank">SOP Pengembangan Bisnis.<br><b>(verifikasi)</b></i></td>
                             </tr>
                         </table>
                     </div>

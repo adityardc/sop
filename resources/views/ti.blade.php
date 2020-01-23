@@ -12,7 +12,7 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PENYUSUNAN MASTER PLAN TEKNOLOGI INFORMASI.pdf') }}" target="_blank">SOP Penyusunan Master Plan Teknologi Informasi</a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PENYUSUNAN MASTER PLAN TEKNOLOGI INFORMASI.pdf') }}" target="_blank">SOP Penyusunan Master Plan Teknologi Informasi.<br><b>(verifikasi)</b></a></td>
                             </tr>
                         </table>
                     </div>
@@ -60,7 +60,7 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR MANAJEMEN PENGEMBANGAN SISTEM DAN APLIKASI.pdf') }}" target="_blank">SOP Prosedur Manajemen Pengembangan Sistem dan Aplikasi</a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR MANAJEMEN PENGEMBANGAN SISTEM DAN APLIKASI.pdf') }}" target="_blank">SOP Prosedur Manajemen Pengembangan Sistem dan Aplikasi.<br><b>(verifikasi)</b></a></td>
                             </tr>
                         </table>
                     </div>

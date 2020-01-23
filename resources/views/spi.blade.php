@@ -12,9 +12,9 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PKPT DAN RJP SPI LENGKAP.pdf') }}" target="_blank">1. SOP Penyusunan RKPT dan RJPP SPI</a></td>
-                                <td>2. SOP Pelaksanaan Audit</td>
-                                <td><a href="{{ asset('storage/SOP reward punishment spi print.pdf') }}" target="_blank">3. SOP Pemberian <i>Reward and Punishement</i></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PKPT DAN RJP SPI LENGKAP.pdf') }}" target="_blank">1. SOP Penyusunan RKPT dan RJPP SPI.<br><b>(verifikasi)</b></a></td>
+                                <td>2. SOP Pelaksanaan Audit.<br><b>(revisi)</b></td>
+                                {{-- <td><a href="{{ asset('storage/SOP reward punishment spi print.pdf') }}" target="_blank">3. SOP Pemberian <i>Reward and Punishement</i></a></td> --}}
                             </tr>
                         </table>
                     </div>

@@ -12,7 +12,7 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP OPTIMALISASI ASET NON-CORE INTERNAL.pdf') }}" target="_blank">SOP Optimalisasi Aset Non-Core oleh Internal</a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP OPTIMALISASI ASET NON-CORE INTERNAL.pdf') }}" target="_blank">SOP Optimalisasi Aset Non-Core oleh Internal.<br><b>(verifikasi)</b></a></td>
                             </tr>
                         </table>
                     </div>
@@ -56,7 +56,7 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP OPTIMALISASI ASET NON-CORE EKSTERNAL.pdf') }}" target="_blank">SOP Optimalisasi Aset Non-Core oleh Eksternal</a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP OPTIMALISASI ASET NON-CORE EKSTERNAL.pdf') }}" target="_blank">SOP Optimalisasi Aset Non-Core oleh Eksternal.<br><b>(verifikasi)</b></a></td>
                             </tr>
                         </table>
                     </div>
@@ -89,7 +89,7 @@
         </div>
     </div>
 </div><br><br>
-<div class="wizard-area">
+{{-- <div class="wizard-area">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -97,12 +97,12 @@
                     <div class="wizard-hd">
                         <h2 style="text-align: center">3. PROSES BISNIS : TINDAKAN KORPORASI ANAK PERUSAHAAN</h2>
                         <h5 style="text-align: center;color: red">PERENCANAAN STRATEGIS</h5>
-                        {{-- <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
+                        <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
                                 <td><a href="{{ asset('storage/PTPN IX - SOP OPTIMALISASI ASET NON-CORE EKSTERNAL.pdf') }}" target="_blank">SOP Optimalisasi Aset Non-Core oleh Eksternal</a></td>
                             </tr>
-                        </table> --}}
+                        </table>
                     </div>
                     <div class="rootwizard">
                         <div class="navbar">
@@ -144,5 +144,5 @@
             </div>
         </div>
     </div>
-</div>
+</div> --}}
 @endsection

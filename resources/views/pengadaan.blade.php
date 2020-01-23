@@ -12,10 +12,10 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR PENGAJUAN BARANG DAN JASA.pdf') }}" target="_blank">1. SOP Pengajuan Barang dan Jasa</a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR PELAKSANAAN TENDER.pdf') }}" target="_blank">2. SOP Prosedur Pelaksanaan Tender</a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR PENYUSUNAN HPS.pdf') }}" target="_blank">3. SOP Prosedur Penyusunan HPS</a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR PENERIMAAN BARANG DAN JASA.pdf') }}" target="_blank">4. SOP Penerimaan Barang dan Jasa</a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR PENGAJUAN BARANG DAN JASA.pdf') }}" target="_blank">1. SOP Pengajuan Barang dan Jasa.<br><b>(verifikasi)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR PELAKSANAAN TENDER.pdf') }}" target="_blank">2. SOP Prosedur Pelaksanaan Tender.<br><b>(verifikasi)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR PENYUSUNAN HPS.pdf') }}" target="_blank">3. SOP Prosedur Penyusunan HPS.<br><b>(verifikasi)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR PENERIMAAN BARANG DAN JASA.pdf') }}" target="_blank">4. SOP Penerimaan Barang dan Jasa.<br><b>(verifikasi)</b></a></td>
                             </tr>
                         </table>
                     </div>

@@ -12,13 +12,13 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/SOP Penjualan gula tetes format baru.pdf') }}" target="_blank">1. SOP Pemasaran Gula dan Tetes</a></td>
-                                <td><a href="{{ asset('storage/7. TATA CARA PELAKSANAAN PENJULAN KOMODITI DTT.pdf') }}" target="_blank">3. SOP Penjualan Komoditi DTT</a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR PENANGANAN KOMPLAIN DAN KLAIM.pdf') }}" target="_blank">5. SOP Penanganan Klaim dan Komplain Pelanggan</a></td>
+                                <td><a href="{{ asset('storage/SOP Penjualan gula tetes format baru.pdf') }}" target="_blank">1. SOP Pemasaran Gula dan Tetes.<br><b>(verifikasi)</b></a></td>
+                                <td><a href="{{ asset('storage/7. TATA CARA PELAKSANAAN PENJULAN KOMODITI DTT.pdf') }}" target="_blank">3. SOP Penjualan Komoditi DTT.<br><b>(verifikasi)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PROSEDUR PENANGANAN KOMPLAIN DAN KLAIM.pdf') }}" target="_blank">5. SOP Penanganan Klaim dan Komplain Pelanggan.<br><b>(verifikasi)</b></a></td>
                             </tr>
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP PELAYANAN PENGAMBILAN DO.pdf') }}" target="_blank">2. SOP Pengambilan DO</a></td>
-                                <td>4. SOP Prosedur Pelaksanaan Stock Opname</td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PELAYANAN PENGAMBILAN DO.pdf') }}" target="_blank">2. SOP Pengambilan DO.<br><b>(verifikasi)</b></a></td>
+                                <td>4. SOP Prosedur Pelaksanaan Stock Opname.<br><b>(revisi)</b></td>
                             </tr>
                         </table>
                     </div>
