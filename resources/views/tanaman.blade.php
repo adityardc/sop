@@ -58,10 +58,14 @@
                         <p style="margin-bottom: 0%"><b><u>DAFTAR SOP</u></b></p>
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP KARET LENGKAP.pdf') }}" target="_blank">1. SOP Budidaya Karet.<br><b>(verifikasi)</b></a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP TEH LENGKAP.pdf') }}" target="_blank">2. SOP Budidaya Teh.<br><b>(verifikasi)</b></a></td>
-                                <td><a href="{{ asset('storage/PTPN IX - SOP KOPI ARABIKA.pdf') }}" target="_blank">3. SOP Budidaya Kopi Arabika.<br><b>(verifikasi)</b></a></td>
-                                <td>4. SOP Budidaya Kopi Robusta.<br><b>(verifikasi)</b></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP KARET LENGKAP.pdf') }}" target="_blank">1. SOP Budidaya Karet.<br><b>(sudah disetujui)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP TEH LENGKAP.pdf') }}" target="_blank">3. SOP Budidaya Teh.<br><b>(sudah disetujui)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP KOPI ARABIKA.pdf') }}" target="_blank">5. SOP Budidaya Kopi Arabika.<br><b>(sudah disetujui)</b></a></td>
+                            </tr>
+                            <tr>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP BUDIDAYA PENGOLAHAN SERAI WANGI.pdf') }}" target="_blank">2. SOP Budidaya Serai Wangi.<br><b>(sudah disetujui)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP BUDIDAYA TEBU MEKANISASI.pdf') }}" target="_blank">4. SOP Budidaya Tebu Mekanisasi.<br><b>(sudah disetujui)</b></a></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP KOPI ROBUSTA.pdf') }}" target="_blank">6. SOP Budidaya Kopi Robusta.<br><b>(sudah disetujui)</b></a></td>
                             </tr>
                         </table>
                     </div>

@@ -13,7 +13,7 @@
                         <table class="table table-borderless table-condensed table-hover" style="margin-bottom: 0%">
                             <tr>
                                 <td><a href="{{ asset('storage/PTPN IX - SOP LEGAL OPINION.pdf') }}" target="_blank">1. SOP Kajian Hukum/<i>Legal Opinion</i>.<br><b>(verifikasi)</b></a></td>
-                                <td>2. SOP Penerbitan Perikatan / Perjanjian / MoU.<br><b>(verifikasi)</b></td>
+                                <td><a href="{{ asset('storage/PTPN IX - SOP PEMBUATAN DAN PENERBITAN, PERIKATAN; PERJANJIAN; MOU PTPN IX.pdf') }}" target="_blank">2. SOP Penerbitan Perikatan / Perjanjian / MoU.<br><b>(sudah disetujui)</b></a></td>
                             </tr>
                         </table>
                     </div>
